@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"pack_format": 15,
+    	"description": "§5Flat Dark §232x pack \n§7Author: §3Morlanjo§8",
+    	"supported_formats": {"min_inclusive": 14, "max_inclusive": 999}
+	}
+}
